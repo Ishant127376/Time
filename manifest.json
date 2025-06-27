@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "TIME",
+  "version": "1.0",
+  "description": "A minimal extension with clock",
+  "action": {
+    "default_popup": "popup.html"
+  },
+"chrome_url_overrides": {
+  "newtab": "main.html"
+}
+}
