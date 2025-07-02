@@ -11,9 +11,9 @@
 
 
 ## **  Output**
-<img src="./Analog clock.png" width="40%" height="40%">
+<img src="./Analog clock.png" width="30%" height="20%">
 
 
 
 ## ** Screenshot of the Interface**
-<img src="./interface_popup.png" width="50%" height="50%">
+<img src="./interface_popup.png" width="30%" height="20%">
