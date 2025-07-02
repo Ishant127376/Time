@@ -7,7 +7,7 @@
 
 
 ## **Description**
-<img src="./description_extension.png" width="80%" height="80%">
+<img src="./description_extension.png" width="60%" height="50%">
 
 
 ## **  Output**
