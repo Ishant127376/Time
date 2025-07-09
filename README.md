@@ -3,7 +3,7 @@
 
 
 ## ** structure**
-<img src="./structure.png" width="80%" height="70%">
+<img src="./structure.png" width="50%" height="90%">
 
 
 ## ** Description **
