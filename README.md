@@ -11,7 +11,7 @@
 
 
 ## **  Output**
-<img src="./Analog clock.png" width="60%" height="80%">
+<img src="./Analog clock.png" width="70%" height="80%">
 
 
 
