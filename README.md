@@ -16,4 +16,4 @@
 
 
 ## ** Screenshot of the Interface**
-<img src="./interface_popup.png" width="20%" height="90%">
+<img src="./interface_popup.png" width="40%" height="90%">
